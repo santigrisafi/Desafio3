@@ -6,7 +6,6 @@ class Number {
       if (num > max_num) {
         max_num = num;
       }
-        return num;
     }
     return max_num;
   };
